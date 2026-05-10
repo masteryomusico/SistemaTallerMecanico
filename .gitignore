@@ -1,0 +1,40 @@
+# Archivos compilados Java
+*.class
+
+# Carpeta bin
+bin/
+
+# Carpeta build
+build/
+
+# Archivos temporales
+*.log
+
+# Configuración VS Code
+.vscode/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de Java
+*.jar
+*.war
+*.ear
+
+# Maven
+target/
+
+# IntelliJ
+.idea/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Archivos temporales Java Language Server
+.metadata/
+
+# Java extension cache VSCode
+.redhat/
