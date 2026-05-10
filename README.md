@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sistema de Gestión Taller Mecánico
 
 Proyecto realizado en Java aplicando:
@@ -21,3 +22,6 @@ src/
 
 Alex Mauricio Lozano Oñate
 Morales
+=======
+# TallerMecanico2026
+>>>>>>> bac8f2f2082b4509d14d9af9f5c5676570f89e26
