@@ -21,6 +21,7 @@ src/
 ## Autor
 
 Alex Mauricio Lozano Oñate
+
 Santiago Morales Angarita
 =======
 # TallerMecanico2026
